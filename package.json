@@ -8,10 +8,10 @@
   "engines": { "node": ">= 0.2.0" },
   "repository": {
     "type": "git",
-    "url": "git://github.com/LearnBoost/knox.git"
+    "url": "git://github.com/mikksoone/knox.git"
   },
   "bugs": {
-    "url": "http://github.com/LearnBoost/knox/issues"
+    "url": "http://github.com/mikksoone/knox/issues"
   },
   "dependencies": {
     "mime": "*"
